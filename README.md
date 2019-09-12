@@ -10,6 +10,8 @@ In order to run this project you will require some important basic libraries suc
 5) Pandas
 6) MatplotLib
 
-Note: these are only basic lib. You might reuire many more libraries for perticular project. 
+Note: these are only basic libries. You might reuire many more libraries for perticular project. 
 
-# inorder to run files you will require Jupiter Notebook.
+#In order to run projects you will require Jupiter Notebook or Pycharm.
+
+You can also use spyder IDE 
