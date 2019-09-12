@@ -1,4 +1,4 @@
-#Some Basic Projects 
+# Some Basic Projects - 
 
 In order to run this project you will require some important basic libraries such as:
 (Version is somehow important as some vesions of these libraries not compatible with all functions)
@@ -12,6 +12,4 @@ In order to run this project you will require some important basic libraries suc
 
 Note: these are only basic libries. You might reuire many more libraries for perticular project. 
 
-#In order to run projects you will require Jupiter Notebook or Pycharm.
-
-You can also use spyder IDE 
+## In order to run projects you will require Jupiter Notebook or Pycharm. You can also use spyder IDE. 
